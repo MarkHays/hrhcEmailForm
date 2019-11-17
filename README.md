@@ -15,7 +15,7 @@ Add credentials to reflect your local environment
 What things you need to install the software and how to install them
 
 ```
-Xaamp
+Xampp
 
 ```
 
